@@ -18,6 +18,6 @@
 
 因分享人数众多，我们无法一一编辑后上架，所以暂时提供两个选择：
 
-1. 推荐方法：参考 **[《如何进行经验分享》](https://github.com/SUSTech-Application/SUSTech-Application-Wiki/blob/master/如何进行经验分享.md)** 对本Repo提出Pull Request，待我们审核完成后即可发布。（注册+学习+编辑大约需要半小时左右。）
+1. 推荐方法：参考 **[《如何进行经验分享》](https://github.com/SUSTech-Application/SUSTech-Application-Wiki/blob/master/如何进行经验分享.md)** 对本Repo提出Pull Request，待我们审核完成后即可发布。（注册+学习+编辑大约需要15分钟。）
 
 2. 备选方法：考虑到其他原因，我们也提供第二种方法，将编辑好的`PDF`/`Word`/`Pages`文件发送到**11510706 AT mail.sustc.edu.cn**，审核后我们会帮助你上架。
